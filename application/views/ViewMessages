@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <ul>
+        <?php
+            
+        <li><?php echo $name ?> </li>
+    </ul>
+
+</body>
+
+
+</html>
